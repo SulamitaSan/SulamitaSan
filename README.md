@@ -9,6 +9,6 @@ Olá, me chamo Sulamita e sou viciada em café :coffee: e jogos :video_game:
  ##
  
 <div>
-  <a href="[https://instagram.com/suulao](https://www.instagram.com/suuulao/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/suuulao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:sulamita.santos0296@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
