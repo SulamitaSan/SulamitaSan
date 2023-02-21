@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou desenvolvedora Full Stack Jr.<br>🌱 Estou aprendendo mais JavaScript e React.<br>⚡ Apaixonada por gatos, café, vídeo games e muay thai.
+🔭 Sou desenvolvedora Full Stack Jr.<br>🌱 Estou aprendendo mais JavaScript, Java e C#.<br>⚡ Apaixonada por gatos, café, vídeo games e muay thai.
 
 
 ## 🌐 Socials:
