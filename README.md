@@ -13,6 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SulamitaSan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SulamitaSan&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
